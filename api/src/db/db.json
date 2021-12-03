@@ -3,5 +3,24 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "6428768234",
+      "createdAt": "247626492469",
+      "name": "Azor",
+      "type": "DOG"
+    },
+    {
+      "id": "1864912648",
+      "createdAt": "479579385793",
+      "name": "Kicia",
+      "type": "CAT"
+    },
+    {
+      "id": "9237459235",
+      "createdAt": "579385729",
+      "name": "Rodos",
+      "type": "DOG"
+    }
+  ]
 }
